@@ -26,6 +26,10 @@ body{
     border: 2px solid  black;
     box-shadow: 0 10px 55px black; 
 }
+.clockanimation i  {
+    color: white;
+    font-size: 4rem;
+}
 .container #clockImg{
     max-width: 103px;
 }
